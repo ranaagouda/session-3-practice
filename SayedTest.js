@@ -4,4 +4,4 @@ function test(name, birthyear, currentyear) {
   const r = name + "is" + age;
   return r;
 }
-console.log(test("rose", 1871, 1964));
+console.log(test("rana", 1871, 1964));
